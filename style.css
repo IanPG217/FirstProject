@@ -122,3 +122,18 @@ a {
     flex-direction: row-reverse;
     padding-top: 10px;
 }
+
+.pre-footer{
+    display: flex;
+    background-color: #3882F6;
+    margin: 30px 20px;
+    padding: 30px 50px;
+    color:white;    
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+
+.bottom-button{
+    border: 1px solid white;
+}
