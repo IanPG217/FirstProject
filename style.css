@@ -112,7 +112,7 @@ a {
     font-style: italic;
     color: #1f2937;
     font-weight: 100;
-    padding: 40px 30px;
+    padding: 150px 350px;
 }
 
 .quote-author{
@@ -126,12 +126,18 @@ a {
 .pre-footer{
     display: flex;
     background-color: #3882F6;
-    margin: 30px 20px;
-    padding: 30px 50px;
+    margin: 150px 300px;
+    padding: 50px 50px;
     color:white;    
     justify-content: center;
     align-items: center;
-    border-radius: 3px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.box-head{
+    font-weight: 700;
+    font-size: 25px;
 }
 
 .bottom-button{
