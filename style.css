@@ -105,3 +105,20 @@ a {
     border-color: #3882F6;
     border-radius: 12px;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 100;
+    padding: 40px 30px;
+}
+
+.quote-author{
+    display: flex;
+    font-weight: bold;
+    font-size: 18px;
+    flex-direction: row-reverse;
+    padding-top: 10px;
+}
