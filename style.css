@@ -137,3 +137,13 @@ a {
 .bottom-button{
     border: 1px solid white;
 }
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    font-weight: 200;
+    padding: 40px 0;
+}
